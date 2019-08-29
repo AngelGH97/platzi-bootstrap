@@ -1,0 +1,63 @@
+#footer{
+    background-color: #1E5271;
+    color: white;
+}
+
+#footer a{
+    color: white;
+}
+
+#header img{    
+    width: 80px;
+}
+
+.text-platzi{
+    color: #97c93e!important;
+}
+
+#main img{
+    
+    height: 550px;
+    width: auto;
+    object-fit: cover;
+    filter: grayscale(70%);
+}
+
+#carousel .overlay{
+
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: rgb(0,0,0,.5);
+    color: white;
+    z-index: 1;
+}
+
+#carousel .overlay .container , 
+#carousel .overlay .row{
+
+    height: 100%;
+}
+
+.btn-platzi{
+    background-color: #97c93e!important;
+    color: white;
+}
+
+
+.btn-platzi:hover{
+    background-color: #587a1b!important;
+    color: white;
+}
+
+#place-time img{
+    max-width: 100%;
+ }
+
+#place-time {
+
+    background-color: #343a40!important;
+    color: white;
+ }
